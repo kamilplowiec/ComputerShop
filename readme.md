@@ -1,5 +1,7 @@
 # Sklep komputerowy
 
+![Sklep komputerowy](https://kamilplowiec.tk/img/portfolio/csdesktop3.jpg)
+
 1. Uzytkownik moze byc klientem lub pracownikiem sklepu
 2. Klient sam sie rejestruje przed zlozeniem zamowienia
 3. Dodawanie, edycja produktów (Nazwa, Cena, Ilosc)
